@@ -101,7 +101,9 @@ add_one(add_one(add_one(add_one(add_one(add_one(1))))))
 
 # EXPRESSIONS PLAYGROUND BEGINS
 
-
+x = 5
+y = 6
+result = (x**2 + 1) + y**2
 
 # EXPRESSIONS PLAYGROUND ENDS
 
